@@ -1,0 +1,12 @@
+A CLI app which would take input and store data from user in a database
+
+What the app would include:
+    - A menu which would offer all the options that the user can do
+      ex. (
+        ~ Add information
+        ~ Modify information
+        ~ Get information
+        ~ Explore information
+      )
+
+Skills Required:-
